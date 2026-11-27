@@ -1,16 +1,15 @@
-## Hi there 👋
+<img style="border-radius:10px;" width="300" alt="image" src="https://github.com/user-attachments/assets/dadcdedc-fa93-40ac-975d-518ba6ca26e1" />
+<h2>hi everyone!!</h2>
+<p>im TheTsubakuraCorner or TsubaCorner for short.</p>
+<h3>my intrests!</h3>
+  <p>🌽 Vtubers (mostly hololive)</p>
+	<p>🌽 UTDR</p>
+	<p>🌽 Mediawiki (and wikitext)</p>
+	<p>🌽 HK/SS</p>
+	<p>🌽 Touhou Project</p>
+	<p>🌽 Art</p>
+	<p>🌽 Vocaloid</p>
+	<h3>links!</h3>
+	<button>https://thetsubakuracorner.carrd.co/</button>
+						
 
-<!--
-**TheTsubakuraCorner/TheTsubakuraCorner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
